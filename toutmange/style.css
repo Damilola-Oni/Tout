@@ -1,0 +1,30 @@
+.nav{
+  display: absolute;
+  top:0;
+  left: 0;
+  right: 0;
+  background-color: #fff;
+  //align: right;
+  //display: inline-block;
+}
+.tout{
+  display:grid;
+  grid-column-template:10% 70%;
+}
+.nav a{
+  text-decoration: none;
+}
+.brand-image{
+  height:6rem;
+  width:10rem;
+
+}
+.home{
+  color:#FA4A0C
+}
+.navlink{
+  width:591px;
+  height:48px;
+  top:53px;
+  left:809px
+}
